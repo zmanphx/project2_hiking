@@ -2,6 +2,7 @@
 
 Node js web application based on MVC, Mysql , and Handlebars.
 
+ Hosted on Heroku at  https://bootcamp-group-project-2.herokuapp.com/  
 **Take a Hike**  is a web application using **node.js**, , **MySql** database, **Handlebars** template engine. This site is based on **MVC** design concept of *Model* , *View*, and *Controller* layers. 
 
 **NPM s** used in this project includes : *express* , *passport*, *express-session*, *body-parser*, *express-handlebars*, *sequelize*, *fs* , *axios* . 
